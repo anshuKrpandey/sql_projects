@@ -1,0 +1,285 @@
+season,name,nationality,type,team,price
+2023,Ajinkya Rahane ,Indian ,Batsman , Chennai Super Kings,5000000
+2023,Bhagath Varma ,Indian ,All Rounder , Chennai Super Kings,2000000
+2023,Kyle Jamieson ,Overseas ,Bowler , Chennai Super Kings,10000000
+2023,Ajay Mandal ,Indian ,All Rounder , Chennai Super Kings,2000000
+2023,Nishant Sindhu ,Indian ,All Rounder , Chennai Super Kings,6000000
+2023,Shaik Rasheed ,Indian ,Batsman , Chennai Super Kings,2000000
+2023,Ben Stokes ,Overseas ,All Rounder , Chennai Super Kings,162500000
+2023,Phil Salt ,Overseas ,Wicket Keeper , Delhi Capitals,20000000
+2023,Ishant Sharma ,Indian ,Bowler , Delhi Capitals,5000000
+2023,Rilee Rossouw ,Overseas ,Batsman , Delhi Capitals,46000000
+2023,Manish Pandey ,Indian ,Batsman , Delhi Capitals,24000000
+2023,Mukesh Kumar ,Indian ,Bowler , Delhi Capitals,55000000
+2023,Shivam Mavi ,Indian ,Bowler , Gujarat Titans,60000000
+2023,K.S. Bharat ,Indian ,Wicket Keeper , Gujarat Titans,12000000
+2023,Urvil Patel ,Indian ,Wicket Keeper , Gujarat Titans,2000000
+2023,Mohit Sharma ,Indian ,Bowler , Gujarat Titans,5000000
+2023,Joshua Little ,Overseas ,Bowler , Gujarat Titans,44000000
+2023,Kane Williamson ,Overseas ,Batsman , Gujarat Titans,20000000
+2023,Odean Smith ,Overseas ,All Rounder , Gujarat Titans,5000000
+2023,Kulwant Khejroliya ,Indian ,Bowler , Kolkata Knight Riders,2000000
+2023,Shakib Al Hasan ,Overseas ,All Rounder , Kolkata Knight Riders,15000000
+2023,Vaibhav Arora ,Indian ,Bowler , Kolkata Knight Riders,6000000
+2023,N. Jagadeesan ,Indian ,Wicket Keeper , Kolkata Knight Riders,9000000
+2023,David Wiese ,Overseas ,All Rounder , Kolkata Knight Riders,10000000
+2023,Mandeep Singh ,Indian ,Batsman , Kolkata Knight Riders,5000000
+2023,Litton Das ,Overseas ,Wicket Keeper , Kolkata Knight Riders,5000000
+2023,Suyash Sharma ,Indian ,Bowler , Kolkata Knight Riders,2000000
+2023,Amit Mishra ,Indian ,Bowler , Lucknow Super Giants,5000000
+2023,Nicholas Pooran ,Overseas ,Wicket Keeper , Lucknow Super Giants,160000000
+2023,Romario Shepherd ,Overseas ,All Rounder , Lucknow Super Giants,5000000
+2023,Daniel Sams ,Overseas ,All Rounder , Lucknow Super Giants,7500000
+2023,Swapnil Singh ,Indian ,All Rounder , Lucknow Super Giants,2000000
+2023,Yudhvir Charak ,Indian ,All Rounder , Lucknow Super Giants,2000000
+2023,Prerak Mankad ,Indian ,All Rounder , Lucknow Super Giants,2000000
+2023,Yash Thakur ,Indian ,Bowler , Lucknow Super Giants,4500000
+2023,Naveen Ul Haq ,Overseas ,Bowler , Lucknow Super Giants,5000000
+2023,Jaydev Unadkat ,Indian ,Bowler , Lucknow Super Giants,5000000
+2023,Jhye Richardson ,Overseas ,Bowler , Mumbai Indians,15000000
+2023,Nehal Wadhera ,Indian ,All Rounder , Mumbai Indians,2000000
+2023,Raghav Goyal ,Indian ,Bowler , Mumbai Indians,2000000
+2023,Cameron Green ,Overseas ,All Rounder , Mumbai Indians,175000000
+2023,Vishnu Vinod ,Indian ,Wicket Keeper , Mumbai Indians,2000000
+2023,Duan Jansen ,Overseas ,All Rounder , Mumbai Indians,2000000
+2023,Piyush Chawla ,Indian ,Bowler , Mumbai Indians,5000000
+2023,Shams Mulani ,Indian ,All Rounder , Mumbai Indians,2000000
+2023,Harpreet Bhatia ,Indian ,Batsman , Punjab Kings,4000000
+2023,Shivam Singh ,Indian ,All Rounder , Punjab Kings,2000000
+2023,Vidwath Kaverappa ,Indian ,Bowler , Punjab Kings,2000000
+2023,Mohit Rathee ,Indian ,All Rounder , Punjab Kings,2000000
+2023,Sam Curran ,Overseas ,All Rounder , Punjab Kings,185000000
+2023,Sikandar Raza ,Overseas ,All Rounder , Punjab Kings,5000000
+2023,Jason Holder ,Overseas ,All Rounder , Rajasthan Royals,57500000
+2023,Adam Zampa ,Overseas ,Bowler , Rajasthan Royals,15000000
+2023,Abdul P A ,Indian ,All Rounder , Rajasthan Royals,2000000
+2023,Akash Vashisht ,Indian ,All Rounder , Rajasthan Royals,2000000
+2023,Donovan Ferreira ,Overseas ,Wicket Keeper , Rajasthan Royals,5000000
+2023,Kunal Rathore ,Indian ,Wicket Keeper , Rajasthan Royals,2000000
+2023,Joe Root ,Overseas ,Batsman , Rajasthan Royals,10000000
+2023,Murugan Ashwin ,Indian ,Bowler , Rajasthan Royals,2000000
+2023,K.M. Asif ,Indian ,Bowler , Rajasthan Royals,3000000
+2023,Sonu Yadav ,Indian ,All Rounder , Royal Challengers Bangalore,2000000
+2023,Himanshu Sharma ,Indian ,Bowler , Royal Challengers Bangalore,2000000
+2023,Avinash Singh ,Indian ,Bowler , Royal Challengers Bangalore,6000000
+2023,Manoj Bhandage ,Indian ,All Rounder , Royal Challengers Bangalore,2000000
+2023,Will Jacks ,Overseas ,Batsman , Royal Challengers Bangalore,32000000
+2023,Reece Topley ,Overseas ,Bowler , Royal Challengers Bangalore,19000000
+2023,Rajan Kumar ,Indian ,Bowler , Royal Challengers Bangalore,7000000
+2023,Sanvir Singh ,Indian ,All Rounder , Sunrisers Hyderabad,2000000
+2023,Harry Brook ,Overseas ,Batsman , Sunrisers Hyderabad,132500000
+2023,Heinrich Klaasen ,Overseas ,Wicket Keeper , Sunrisers Hyderabad,52500000
+2023,Akeal Hosein ,Overseas ,Bowler , Sunrisers Hyderabad,10000000
+2023,Mayank Markande ,Indian ,Bowler , Sunrisers Hyderabad,5000000
+2023,Adil Rashid ,Overseas ,Bowler , Sunrisers Hyderabad,20000000
+2023,Anmolpreet Singh ,Indian ,Batsman , Sunrisers Hyderabad,2000000
+2023,Vivrant Sharma ,Indian ,All Rounder , Sunrisers Hyderabad,26000000
+2023,Samarth Vyas ,Indian ,All Rounder , Sunrisers Hyderabad,2000000
+2023,Upendra Singh Yadav ,Indian ,Wicket Keeper , Sunrisers Hyderabad,2500000
+2023,Nitish Kumar Reddy ,Indian ,Wicket Keeper , Sunrisers Hyderabad,2000000
+2023,Mayank Agarwal ,Indian ,Batsman , Sunrisers Hyderabad,82500000
+2023,Mayank Dagar ,Indian ,All Rounder , Sunrisers Hyderabad,18000000
+2022,Robin Uthappa ,Indian ,Batsman , Chennai Super Kings,20000000
+2022,Dwayne Bravo ,Overseas ,All Rounder , Chennai Super Kings,44000000
+2022,Ambati Rayudu ,Indian ,Wicket Keeper , Chennai Super Kings,67500000
+2022,Deepak Chahar ,Indian ,Bowler , Chennai Super Kings,140000000
+2022,C.Hari Nishaanth ,Indian ,Batsman , Chennai Super Kings,2000000
+2022,N. Jagadeesan ,Indian ,Wicket Keeper , Chennai Super Kings,2000000
+2022,K.M. Asif ,Indian ,Bowler , Chennai Super Kings,2000000
+2022,Tushar Deshpande ,Indian ,Bowler , Chennai Super Kings,2000000
+2022,Shivam Dube ,Indian ,All Rounder , Chennai Super Kings,40000000
+2022,Chris Jordan ,Overseas ,All Rounder , Chennai Super Kings,36000000
+2022,Maheesh Theekshana ,Overseas ,Bowler , Chennai Super Kings,7000000
+2022,Rajvardhan Hangargekar ,Indian ,All Rounder , Chennai Super Kings,15000000
+2022,Simarjeet Singh ,Indian ,Bowler , Chennai Super Kings,2000000
+2022,Devon Conway ,Overseas ,Batsman , Chennai Super Kings,10000000
+2022,Dwaine Pretorius ,Overseas ,All Rounder , Chennai Super Kings,5000000
+2022,Mitchell Santner ,Overseas ,All Rounder , Chennai Super Kings,19000000
+2022,Adam Milne ,Overseas ,Bowler , Chennai Super Kings,19000000
+2022,Subhranshu Senapati ,Indian ,Batsman , Chennai Super Kings,2000000
+2022,Mukesh Choudhary ,Indian ,Bowler , Chennai Super Kings,2000000
+2022,Prashant Solanki ,Indian ,Bowler , Chennai Super Kings,12000000
+2022,K.Bhagath Varma ,Indian ,All Rounder , Chennai Super Kings,2000000
+2022,David Warner ,Overseas ,Batsman , Delhi Capitals,62500000
+2022,Mitchell Marsh ,Overseas ,All Rounder , Delhi Capitals,65000000
+2022,Mustafizur Rahman ,Overseas ,Bowler , Delhi Capitals,20000000
+2022,Shardul Thakur ,Indian ,Bowler , Delhi Capitals,107500000
+2022,Kuldeep Yadav ,Indian ,Bowler , Delhi Capitals,20000000
+2022,Ashwin Hebbar ,Indian ,Batsman , Delhi Capitals,2000000
+2022,Sarfaraz Khan ,Indian ,All Rounder , Delhi Capitals,2000000
+2022,Kamlesh Nagarkoti ,Indian ,All Rounder , Delhi Capitals,11000000
+2022,K.S. Bharat ,Indian ,Wicket Keeper , Delhi Capitals,20000000
+2022,Mandeep Singh ,Indian ,Batsman , Delhi Capitals,11000000
+2022,Syed Khaleel Ahmed ,Indian ,Bowler , Delhi Capitals,52500000
+2022,Lungisani Ngidi ,Overseas ,Bowler , Delhi Capitals,5000000
+2022,Chetan Sakariya ,Indian ,Bowler , Delhi Capitals,42000000
+2022,Yash Dhull ,Indian ,All Rounder , Delhi Capitals,5000000
+2022,Vicky Ostwal ,Indian ,All Rounder , Delhi Capitals,2000000
+2022,Ripal Patel ,Indian ,All Rounder , Delhi Capitals,2000000
+2022,Lalit Yadav ,Indian ,All Rounder , Delhi Capitals,6500000
+2022,Rovman Powell ,Overseas ,Batsman , Delhi Capitals,28000000
+2022,Tim Seifert ,Overseas ,Wicket Keeper , Delhi Capitals,5000000
+2022,Pravin Dubey ,Indian ,All Rounder , Delhi Capitals,5000000
+2022,Mohammad Shami ,Indian ,Bowler , Gujarat Titans,62500000
+2022,David Miller ,Overseas ,Batsman , Gujarat Titans,30000000
+2022,Jason Roy  ,Overseas ,Batsman , Gujarat Titans,20000000
+2022,Wriddhiman  Saha ,Indian ,Wicket Keeper , Gujarat Titans,19000000
+2022,Matthew Wade ,Overseas ,Wicket Keeper , Gujarat Titans,24000000
+2022,Lockie Ferguson ,Overseas ,Bowler , Gujarat Titans,100000000
+2022,Abhinav Sadarangani ,Indian ,Batsman , Gujarat Titans,26000000
+2022,Rahul Tewatia ,Indian ,All Rounder , Gujarat Titans,90000000
+2022,Noor  Ahmad ,Overseas ,Bowler , Gujarat Titans,3000000
+2022,R. Sai Kishore ,Indian ,Bowler , Gujarat Titans,30000000
+2022,Dominic Drakes ,Overseas ,All Rounder , Gujarat Titans,11000000
+2022,Vijay Shankar ,Indian ,All Rounder , Gujarat Titans,14000000
+2022,Jayant Yadav ,Indian ,All Rounder , Gujarat Titans,17000000
+2022,Darshan Nalkande ,Indian ,All Rounder , Gujarat Titans,2000000
+2022,Yash  Dayal ,Indian ,Bowler , Gujarat Titans,32000000
+2022,B. Sai Sudharsan ,Indian ,All Rounder , Gujarat Titans,2000000
+2022,Gurkeerat Singh ,Indian ,All Rounder , Gujarat Titans,5000000
+2022,Alzarri Joseph ,Overseas ,Bowler , Gujarat Titans,24000000
+2022,Varun Aaron ,Indian ,Bowler , Gujarat Titans,5000000
+2022,Pradeep Sangwan ,Indian ,All Rounder , Gujarat Titans,2000000
+2022,Pat Cummins ,Overseas ,All Rounder , Kolkata Knight Riders,72500000
+2022,Shreyas Iyer ,Indian ,Batsman , Kolkata Knight Riders,122500000
+2022,Mohammad  Nabi ,Overseas ,All Rounder , Kolkata Knight Riders,10000000
+2022,Nitish Rana ,Indian ,All Rounder , Kolkata Knight Riders,80000000
+2022,Sam Billings  ,Overseas ,Wicket Keeper , Kolkata Knight Riders,20000000
+2022,Umesh Yadav ,Indian ,Bowler , Kolkata Knight Riders,20000000
+2022,Shivam  Mavi ,Indian ,All Rounder , Kolkata Knight Riders,72500000
+2022,Sheldon Jackson ,Indian ,Wicket Keeper , Kolkata Knight Riders,6000000
+2022,Ajinkya Rahane ,Indian ,Batsman , Kolkata Knight Riders,10000000
+2022,Rinku Singh ,Indian ,Batsman , Kolkata Knight Riders,5500000
+2022,Anukul Roy ,Indian ,All Rounder , Kolkata Knight Riders,2000000
+2022,Alex Hales  ,Overseas ,Batsman , Kolkata Knight Riders,15000000
+2022,Rasikh Dar ,Indian ,Bowler , Kolkata Knight Riders,2000000
+2022,Tim Southee ,Overseas ,Bowler , Kolkata Knight Riders,15000000
+2022,Baba Indrajith ,Indian ,Wicket Keeper , Kolkata Knight Riders,2000000
+2022,Chamika Karunaratne ,Overseas ,All Rounder , Kolkata Knight Riders,5000000
+2022,Abhijeet Tomar ,Indian ,Batsman , Kolkata Knight Riders,4000000
+2022,Aman Khan ,Indian ,All Rounder , Kolkata Knight Riders,2000000
+2022,Ramesh Kumar ,Indian ,Batsman , Kolkata Knight Riders,2000000
+2022,Pratham Singh ,Indian ,Batsman , Kolkata Knight Riders,2000000
+2022,Ashok Sharma ,Indian ,Bowler , Kolkata Knight Riders,5500000
+2022,Quinton De Kock ,Overseas ,Wicket Keeper , Lucknow Super Giants,67500000
+2022,Manish Pandey ,Indian ,Batsman , Lucknow Super Giants,46000000
+2022,Krunal Pandya ,Indian ,All Rounder , Lucknow Super Giants,82500000
+2022,Mark Wood ,Overseas ,Bowler , Lucknow Super Giants,75000000
+2022,Avesh Khan ,Indian ,Bowler , Lucknow Super Giants,100000000
+2022,Ankit Singh Rajpoot ,Indian ,Bowler , Lucknow Super Giants,5000000
+2022,K. Gowtham ,Indian ,All Rounder , Lucknow Super Giants,9000000
+2022,Dushmanta Chameera ,Overseas ,Bowler , Lucknow Super Giants,20000000
+2022,Shahbaz Nadeem ,Indian ,Bowler , Lucknow Super Giants,5000000
+2022,Manan Vohra ,Indian ,Batsman , Lucknow Super Giants,2000000
+2022,Evin Lewis ,Overseas ,Batsman , Lucknow Super Giants,20000000
+2022,Mohsin Khan ,Indian ,Bowler , Lucknow Super Giants,2000000
+2022,Mayank Yadav ,Indian ,Bowler , Lucknow Super Giants,2000000
+2022,Ayush Badoni ,Indian ,All Rounder , Lucknow Super Giants,2000000
+2022,Kyle Mayers ,Overseas ,All Rounder , Lucknow Super Giants,5000000
+2022,Karan Sharma ,Indian ,All Rounder , Lucknow Super Giants,2000000
+2022,Jason Holder ,Overseas ,All Rounder , Lucknow Super Giants,87500000
+2022,Deepak Hooda ,Indian ,All Rounder , Lucknow Super Giants,57500000
+2022,Ishan Kishan ,Indian ,Wicket Keeper , Mumbai Indians,152500000
+2022,Dewald Brevis ,Overseas ,Batsman , Mumbai Indians,30000000
+2022,Anmolpreet Singh ,Indian ,Batsman , Mumbai Indians,2000000
+2022,Basil Thampi ,Indian ,Bowler , Mumbai Indians,3000000
+2022,Murugan Ashwin ,Indian ,Bowler , Mumbai Indians,16000000
+2022,Jaydev Unadkat ,Indian ,Bowler , Mumbai Indians,13000000
+2022,Mayank Markande ,Indian ,Bowler , Mumbai Indians,6500000
+2022,N. Tilak Varma ,Indian ,All Rounder , Mumbai Indians,17000000
+2022,Sanjay Yadav ,Indian ,All Rounder , Mumbai Indians,5000000
+2022,Jofra Archer ,Overseas ,All Rounder , Mumbai Indians,80000000
+2022,Daniel Sams ,Overseas ,All Rounder , Mumbai Indians,26000000
+2022,Tymal Mills ,Overseas ,Bowler , Mumbai Indians,15000000
+2022,Tim David ,Overseas ,All Rounder , Mumbai Indians,82500000
+2022,Ramandeep  Singh ,Indian ,All Rounder , Mumbai Indians,2000000
+2022,Aryan Juyal ,Indian ,Wicket Keeper , Mumbai Indians,2000000
+2022,Fabian Allen ,Overseas ,All Rounder , Mumbai Indians,7500000
+2022,Riley Meredith ,Overseas ,Bowler , Mumbai Indians,10000000
+2022,Rahul Buddhi ,Indian ,Batsman , Mumbai Indians,2000000
+2022,Hrithik Shokeen ,Indian ,All Rounder , Mumbai Indians,2000000
+2022,Mohd. Arshad Khan ,Indian ,All Rounder , Mumbai Indians,2000000
+2022,Arjun  Tendulkar ,Indian ,All Rounder , Mumbai Indians,3000000
+2022,Shikhar Dhawan ,Indian ,Batsman , Punjab Kings,82500000
+2022,Kagiso Rabada ,Overseas ,Bowler , Punjab Kings,92500000
+2022,Jonny Bairstow  ,Overseas ,Wicket Keeper , Punjab Kings,67500000
+2022,Rahul Chahar ,Indian ,Bowler , Punjab Kings,52500000
+2022,Harpreet  Brar ,Indian ,All Rounder , Punjab Kings,38000000
+2022,Shahrukh Khan ,Indian ,All Rounder , Punjab Kings,90000000
+2022,Jitesh Sharma ,Indian ,Wicket Keeper , Punjab Kings,2000000
+2022,Prabhsimran Singh ,Indian ,Wicket Keeper , Punjab Kings,6000000
+2022,Ishan Porel ,Indian ,Bowler , Punjab Kings,2500000
+2022,Liam Livingstone ,Overseas ,All Rounder , Punjab Kings,115000000
+2022,Odean Smith ,Overseas ,All Rounder , Punjab Kings,60000000
+2022,Sandeep Sharma ,Indian ,Bowler , Punjab Kings,5000000
+2022,Raj Angad Bawa ,Indian ,All Rounder , Punjab Kings,20000000
+2022,Rishi Dhawan ,Indian ,All Rounder , Punjab Kings,5500000
+2022,Nathan Ellis ,Overseas ,Bowler , Punjab Kings,7500000
+2022,Prerak Mankad ,Indian ,All Rounder , Punjab Kings,2000000
+2022,Atharva Taide ,Indian ,All Rounder , Punjab Kings,2000000
+2022,Vaibhav Arora ,Indian ,Bowler , Punjab Kings,20000000
+2022,Bhanuka Rajapaksa ,Overseas ,Batsman , Punjab Kings,5000000
+2022,Benny Howell ,Overseas ,All Rounder , Punjab Kings,4000000
+2022,Writtick Chatterjee ,Indian ,All Rounder , Punjab Kings,2000000
+2022,Baltej Dhanda ,Indian ,Bowler , Punjab Kings,2000000
+2022,Ansh Patel ,Indian ,All Rounder , Punjab Kings,2000000
+2022,R. Ashwin ,Indian ,All Rounder , Rajasthan Royals,50000000
+2022,Trent Boult ,Overseas ,Bowler , Rajasthan Royals,80000000
+2022,Shimron Hetmyer ,Overseas ,Batsman , Rajasthan Royals,85000000
+2022,Devdutt Padikkal ,Indian ,Batsman , Rajasthan Royals,77500000
+2022,Prasidh Krishna ,Indian ,Bowler , Rajasthan Royals,100000000
+2022,Yuzvendra Chahal ,Indian ,Bowler , Rajasthan Royals,65000000
+2022,Riyan Parag ,Indian ,All Rounder , Rajasthan Royals,38000000
+2022,K.C Cariappa ,Indian ,Bowler , Rajasthan Royals,3000000
+2022,James Neesham ,Overseas ,All Rounder , Rajasthan Royals,15000000
+2022,Nathan Coulter-Nile ,Overseas ,Bowler , Rajasthan Royals,20000000
+2022,Navdeep Saini ,Indian ,Bowler , Rajasthan Royals,26000000
+2022,Kuldeep  Sen ,Indian ,Bowler , Rajasthan Royals,2000000
+2022,Karun Nair ,Indian ,Batsman , Rajasthan Royals,14000000
+2022,Rassie Van Der Dussen ,Overseas ,Batsman , Rajasthan Royals,10000000
+2022,Daryl Mitchell ,Overseas ,All Rounder , Rajasthan Royals,7500000
+2022,Obed Mccoy ,Overseas ,Bowler , Rajasthan Royals,7500000
+2022,Dhruv Jurel ,Indian ,Wicket Keeper , Rajasthan Royals,2000000
+2022,Tejas Baroka ,Indian ,Bowler , Rajasthan Royals,2000000
+2022,Kuldip Yadav ,Indian ,Bowler , Rajasthan Royals,2000000
+2022,Shubham Garhwal ,Indian ,All Rounder , Rajasthan Royals,2000000
+2022,Anunay Singh ,Indian ,All Rounder , Rajasthan Royals,2000000
+2022,Faf Du Plessis ,Overseas ,Batsman , Royal Challengers Bangalore,70000000
+2022,Wanindu Hasaranga ,Overseas ,All Rounder , Royal Challengers Bangalore,107500000
+2022,Harshal Patel ,Indian ,All Rounder , Royal Challengers Bangalore,107500000
+2022,Dinesh  Karthik ,Indian ,Wicket Keeper , Royal Challengers Bangalore,55000000
+2022,Josh Hazlewood  ,Overseas ,Bowler , Royal Challengers Bangalore,77500000
+2022,Shahbaz Ahamad ,Indian ,All Rounder , Royal Challengers Bangalore,24000000
+2022,Anuj Rawat ,Indian ,Wicket Keeper , Royal Challengers Bangalore,34000000
+2022,Akash  Deep  ,Indian ,Bowler , Royal Challengers Bangalore,2000000
+2022,Karn Sharma ,Indian ,Bowler , Royal Challengers Bangalore,5000000
+2022,Mahipal Lomror ,Indian ,All Rounder , Royal Challengers Bangalore,9500000
+2022,Finn Allen ,Overseas ,Batsman , Royal Challengers Bangalore,8000000
+2022,Sherfane Rutherford ,Overseas ,All Rounder , Royal Challengers Bangalore,10000000
+2022,Jason Behrendorff ,Overseas ,Bowler , Royal Challengers Bangalore,7500000
+2022,Siddharth  Kaul ,Indian ,Bowler , Royal Challengers Bangalore,7500000
+2022,Suyash Prabhudessai ,Indian ,All Rounder , Royal Challengers Bangalore,3000000
+2022,Luvnith Sisodia ,Indian ,Wicket Keeper , Royal Challengers Bangalore,2000000
+2022,Chama Milind ,Indian ,Bowler , Royal Challengers Bangalore,2500000
+2022,Aneeshwar Gautam ,Indian ,All Rounder , Royal Challengers Bangalore,2000000
+2022,David Willey  ,Overseas ,All Rounder , Royal Challengers Bangalore,20000000
+2022,Washington Sundar ,Indian ,All Rounder , Sunrisers Hyderabad,87500000
+2022,Nicholas Pooran ,Overseas ,Wicket Keeper , Sunrisers Hyderabad,107500000
+2022,Bhuvneshwar Kumar ,Indian ,Bowler , Sunrisers Hyderabad,42000000
+2022,T. Natarajan ,Indian ,Bowler , Sunrisers Hyderabad,40000000
+2022,Priyam  Garg ,Indian ,Batsman , Sunrisers Hyderabad,2000000
+2022,Rahul Tripathi ,Indian ,Batsman , Sunrisers Hyderabad,85000000
+2022,Abhishek Sharma ,Indian ,All Rounder , Sunrisers Hyderabad,65000000
+2022,Vishnu Vinod ,Indian ,Wicket Keeper , Sunrisers Hyderabad,5000000
+2022,Kartik Tyagi ,Indian ,Bowler , Sunrisers Hyderabad,40000000
+2022,Shreyas Gopal ,Indian ,Bowler , Sunrisers Hyderabad,7500000
+2022,Jagadeesha Suchith ,Indian ,Bowler , Sunrisers Hyderabad,2000000
+2022,Aiden Markram ,Overseas ,Batsman , Sunrisers Hyderabad,26000000
+2022,Marco Jansen ,Overseas ,All Rounder , Sunrisers Hyderabad,42000000
+2022,Romario Shepherd ,Overseas ,All Rounder , Sunrisers Hyderabad,77500000
+2022,Glenn Phillips ,Overseas ,Wicket Keeper , Sunrisers Hyderabad,15000000
+2022,Fazalhaq Farooqi ,Overseas ,Bowler , Sunrisers Hyderabad,5000000
+2022,Sean Abbott ,Overseas ,Bowler , Sunrisers Hyderabad,24000000
+2022,R Samarth ,Indian ,Batsman , Sunrisers Hyderabad,2000000
+2022,Shashank Singh ,Indian ,All Rounder , Sunrisers Hyderabad,2000000
+2022,Saurabh Dubey ,Indian ,Bowler , Sunrisers Hyderabad,2000000

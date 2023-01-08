@@ -1,0 +1,94 @@
+-- Player Type VS Price
+
+SELECT PLAYER_TYPE,
+	SUM(PRICE) AS PRICE
+FROM IPL
+GROUP BY PLAYER_TYPE;
+
+-- Number of Players Signed by Team
+
+SELECT TEAM,
+	COUNT(PLAYER_NAME) AS NUMBER_OF_PLAYERS
+FROM IPL
+GROUP BY TEAM ORDER BY NUMBER_OF_PLAYERS DESC;
+
+-- Team Expenditure by Role
+
+SELECT TEAM,
+	SUM(CASE
+									WHEN PLAYER_TYPE like '%Batsman%' THEN PRICE
+									ELSE 0
+					END) AS BATSAMAN,
+	SUM(CASE
+									WHEN PLAYER_TYPE like '%Bowler%' THEN PRICE
+									ELSE 0
+					END) AS BOWLER,
+	SUM(CASE
+									WHEN PLAYER_TYPE like '%All Rounder%' THEN PRICE
+									ELSE 0
+					END) AS ALL_ROUNDER,
+	SUM(CASE
+									WHEN PLAYER_TYPE like '%Wicket Keeper%' THEN PRICE
+									ELSE 0
+					END) AS WICKET_KEEPER
+FROM IPL
+GROUP BY TEAM;
+
+-- Team Expenditure by Nationality
+
+SELECT TEAM,
+	SUM(CASE
+									WHEN NATIONALITY like '%Overseas%' THEN PRICE
+									ELSE 0
+					END) AS OVERSEAS,
+	SUM(CASE
+									WHEN NATIONALITY like '%Indian%' THEN PRICE
+									ELSE 0
+					END) AS INDIAN
+FROM IPL
+GROUP BY TEAM;
+
+-- Top 10 Batsman by Price
+
+SELECT PLAYER_NAME,
+	PRICE
+FROM IPL
+WHERE PLAYER_TYPE like '%Batsman%'
+ORDER BY PRICE DESC
+LIMIT 10;
+
+-- Top 10 Bowlers by Price
+
+SELECT PLAYER_NAME,
+	PRICE
+FROM IPL
+WHERE PLAYER_TYPE like '%Bowler%'
+ORDER BY PRICE DESC
+LIMIT 10;
+
+-- Top 10 All Rounders by Price
+
+SELECT PLAYER_NAME,
+	PRICE
+FROM IPL
+WHERE PLAYER_TYPE like '%All Rounder%'
+ORDER BY PRICE DESC
+LIMIT 10;
+
+-- Top 10 International Players by Price
+
+SELECT PLAYER_NAME,
+	PRICE
+FROM IPL
+WHERE nationality like '%Overseas%'
+ORDER BY PRICE DESC
+LIMIT 10;
+
+-- Top 10 Indian Players by Price
+
+SELECT PLAYER_NAME,
+	PRICE
+FROM IPL
+WHERE nationality like '%Indian%'
+ORDER BY PRICE DESC
+LIMIT 10;
