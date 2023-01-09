@@ -34,4 +34,30 @@ Key Points:
        2. Gujarat Titans, Rajasthan Royals, Delhi Capitals spent highest on Bowlers.
        3. Sunrisers Hydrabad put their most on Batsman
        
+4. Team Expenditure by Nationality
  
+ ![4  Team Expenditure by Nationality](https://user-images.githubusercontent.com/113248861/211264519-4598bce0-e06b-4547-83ef-f3055574ffd6.png)
+
+5. Top 10 Batsman by Price
+ 
+![5  Top 10 Batsman by Price](https://user-images.githubusercontent.com/113248861/211264830-f9f36837-b4ff-45b5-ace6-6341dc572b66.png)
+
+6. Top 10 Bowlers by Price
+
+![6  Top 10 Bowlers by Price](https://user-images.githubusercontent.com/113248861/211264956-c00d3d32-9570-47f1-81e9-72c0d9b11305.png)
+
+7. Top 10 All Rounders by Price
+
+![7  Top 10 All Rounders by Price](https://user-images.githubusercontent.com/113248861/211265044-f1dbe907-a507-4274-9425-44f4c986bc17.png)
+
+8. Top 10 International Players by Price
+
+![8  Top 10 International Players by Price](https://user-images.githubusercontent.com/113248861/211265101-571221b1-e99e-4ede-9621-185c8c0735bb.png)
+
+9. Top 10 Indian Players by Price
+
+![9  Top 10 Indian Players by Price](https://user-images.githubusercontent.com/113248861/211265194-b687e56d-af3f-4105-afa0-ce649e4d4bfd.png)
+
+
+
+
