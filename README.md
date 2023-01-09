@@ -30,5 +30,8 @@ Key Points:
 
 Key Points:
 
-       1. CSK, KKR, RCB, MI, PK, LSG poured their highest bid on All Rounders.
-       2. spent highest on Wicket Keeper.
+       1. Chennai Super Kings, Kolkata Knight Riders, Royal Challengers Bangalore, Mumbai Indians, Punjab Kings, Kucknow Super Giants poured their highest bid on All             Rounders.
+       2. Gujarat Titans, Rajasthan Royals, Delhi Capitals spent highest on Bowlers.
+       3. Sunrisers Hydrabad put their most on Batsman
+       
+ 
